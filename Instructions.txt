@@ -1,0 +1,38 @@
+http://guides.beanstalkapp.com/version-control/common-git-commands.html#local
+http://guides.beanstalkapp.com/version-control/getting-started-with-git.html#why-version-control-matters
+
+# make directory a git repository
+
+# change directory to codebase
+$ cd /Users/computer-name/Documents/website
+
+$ git init
+Initialized empty Git repository in /Users/computer-name/Documents/website/.git/
+-----------------------
+# To add all files not staged:
+$ git add .
+
+# To stage a specific file:
+$ git add index.html
+
+# To stage an entire directory:
+$ git add css
+
+
+
+
+
+
+
+
+
+
+====================================================
+$ git config user.email "gjoydev@gmail.com"
+$ git config user.name "joydev"
+git branch new_feature1
+git branch -a
+git branch -d new_feature1
+
+
+
