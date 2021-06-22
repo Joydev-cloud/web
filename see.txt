@@ -1,0 +1,14 @@
+https://www.datacamp.com/community/tutorials/git-push-pull
+
+
+https://stackoverflow.com/questions/4308610/how-to-ignore-certain-files-in-git-------its follow working
+
+https://www.git-tower.com/learn/git/faq/ignore-tracked-files-in-git/
+
+
+
+git init
+git add
+git status
+git commit
+==================================================
